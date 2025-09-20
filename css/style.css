@@ -875,9 +875,16 @@ body{
     height: 110px;
     width: 110px;
     border-radius: 50%;
-    background-image: url(../images/coach.jpeg);
     background-size: cover;
     display: inline-block;
+}
+
+.info1-circle{
+    background-image: url(../images/fullstack.jpg);
+}
+
+.info2-circle{
+    background-image: url(../images/ux.jpg);
 }
 
 .info-title{
